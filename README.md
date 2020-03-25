@@ -1,5 +1,10 @@
 # Pixorize
 
+## Diplomanden
+- Stefan Haas 
+- Stefan Etzelstorfer
+- Manuel Riedl 
+
 ## Abstract
 The goal of Pixorize is the implementation of a new machine learning approach
 for the colorization of black and white images.
@@ -34,4 +39,4 @@ Benutzers freien Lauf zu lassen und demzufolge die Mannigfaltigkeit der entstehe
 
 ![Vergleich mit der Konkurrenz (Colourise SG)](./images/grid.png?raw=true "Vergleich mit der Konkurrenz (Colourise SG)")
 
-![Vollautomatische Kolorierung von einem Poträtbild von Richard Feynman](feynman.png?raw=true "Vollautomatische Kolorierung von einem Poträtbild von Richard Feynman")
+![Vollautomatische Kolorierung von einem Poträtbild von Richard Feynman](./images/feynman.png?raw=true "Vollautomatische Kolorierung von einem Poträtbild von Richard Feynman")
